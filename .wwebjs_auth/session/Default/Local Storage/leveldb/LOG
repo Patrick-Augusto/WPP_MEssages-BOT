@@ -1,0 +1,6 @@
+2026/02/24-15:52:32.085 b235d3 Reusing MANIFEST /Users/patrickaugusto/Documents/Empresa/Dr Flavia/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/24-15:52:32.089 b235d3 Recovering log #6
+2026/02/24-15:52:32.090 b235d3 Reusing old log /Users/patrickaugusto/Documents/Empresa/Dr Flavia/.wwebjs_auth/session/Default/Local Storage/leveldb/000006.log 
+2026/02/24-15:54:33.291 b235d7 Level-0 table #10: started
+2026/02/24-15:54:33.296 b235d7 Level-0 table #10: 14918 bytes OK
+2026/02/24-15:54:33.298 b235d7 Delete type=0 #6

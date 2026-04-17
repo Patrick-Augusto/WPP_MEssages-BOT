@@ -1,0 +1,31 @@
+{
+  "name": "dr-flavia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "pkg . --targets node18-win-x64 --output zap-sender-win.exe --public"
+  },
+  "bin": "server.js",
+  "pkg": {
+    "assets": [
+      "public/**/*",
+      "package.json"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mime-types": "^3.0.2",
+    "multer": "^2.0.2",
+    "open": "^11.0.0",
+    "pkg": "^5.8.1",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.3",
+    "whatsapp-web.js": "^1.34.6"
+  }
+}
